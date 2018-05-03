@@ -1,0 +1,43 @@
+let projekts = [
+  {
+    "name": "Nomnom: En kokbok online!",
+    "description":"Vårat andra projekt i skolan i ramverket Vue. Här kan användaren gå in och redigera, lägga till och gilla recept. \n Gå gärna in och testa då recepten är statiska och återställs varje gång ni laddar om sidan.",
+    "tech" : "Vue, HTML, CSS, JS",
+    "team" : "Johan Augustsson, Elin Jakobsson",
+    "url" : "https://nom-nomnom.firebaseapp.com/",
+    "picture": "./img/nomnom.png"
+  },
+  {
+    "name": "Kalkylator",
+    "description":"En Kalkylator som byggdes i Ramverket Vue. Här används polish notation för att räkna ut formler med paranteser. \n Prova gärna!",
+    "tech" : "Vue, HTML, CSS, JS",
+    "team" : "Johan Augustsson",
+    "url" : "https://johanaugustsson.github.io/Calculator/",
+    "picture": "./img/calculate.png"
+  },
+  {
+    "name": "Gaming2017",
+    "description":"Första React projektet som jag och min bror startade för att lära oss om ramverket. Appen är till för att registrera diverse statistik när vi spelar NHL på ps4 tillsamman med vänner. Appen är fortfarande under utveckling.",
+    "tech" : "React ,Firebase db/auth ,HTML ,CSS ,JS ,Moqups",
+    "team" : "Johan Augustsson och Peter Augustsson",
+    "url" : "https://johanaugustsson.github.io/Gaming2017/",
+    "picture": "./img/gameing.png"
+  },
+  {
+    "name": "Runaway: En mobil-app för löpning",
+    "description":"Här var fokus på att lära oss om agila metoder och den vi använde oss av var scrum. Tanken från början var att skapa en app som registerar gps signalen i mobilen. Tyvärr visade vi ej kunde komma åt gps:en i nedsläckt läge i mobilen. Lösningen blev att man istälet väljer en befintlig slinga från kartan från ett antal träningsanläggningar. Därefter kan man välja att dela med sig sin prestation och chatta med medlemmar. Varje löprunda sparas och man får då en fin historik. \n Gå gärna in och prova.",
+    "tech" : "Firebase db+auth, HTML ,CSS ,JS ,Scrum ,API ,Moqups ,Wireframes ,Photoshop",
+    "team" : "Johan, Anna, Oskar och Christopher",
+    "url" : "https://jackpotdante.github.io/Runaway-App/",
+    "picture": "./img/runaway.jpg"
+  },
+  {
+    "name": "WhatChat: En chatt i retro stil!",
+    "description":"Första projetet som vi använder oss av Firebase för att lagra information samt att kunna logga in. \n Här vill vi få till en känsla 90-talet i retro stil och tycker att vi lyckades riktigt bra. \n Välkommen in att testa!",
+    "tech" : "Firebase db+auth,HTML ,CSS ,JS ,API",
+    "team" : "Johan Augustsson, Andreas Holmstedt",
+    "url" : "https://johanaugustsson.github.io/whatChat/",
+    "picture": "./img/whatchat.png"
+  }
+
+]
