@@ -91,7 +91,7 @@ let moveProjects = (listOfProjekts,index) =>{
 
 getAllSkills = () => {
   let listOfSkillUl = document.getElementsByClassName('listOfSkil')[0];
-  let listOfSkill = ["./img/react.png","./img/vue.png","./img/ajax.png","./img/collection.png","./img/git.png"]
+  let listOfSkill = ["./img/react2.png","./img/vue2.png","./img/ajax.png","./img/collection.png","./img/git.png"]
 
   listOfSkill.forEach(item => {
     let li = document.createElement('li');
